@@ -1,0 +1,17 @@
+﻿Build started 4/1/2021 11:21:47 PM.
+     1>Project "H:\SD Lab Project CSE 1200\REER\REER\REER.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\REER.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         REER.vcxproj -> H:\SD Lab Project CSE 1200\REER\Debug\REER.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\REER.unsuccessfulbuild".
+         Touching "Debug\REER.lastbuildstate".
+     1>Done Building Project "H:\SD Lab Project CSE 1200\REER\REER\REER.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.26
